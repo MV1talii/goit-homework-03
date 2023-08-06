@@ -253,6 +253,7 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--navyblue);
+    margin-bottom: 72px;
 }
 
 /* SECTION FOUR */
@@ -291,6 +292,10 @@ img {
     color: var(--navyblue);
     margin-bottom: 8px;
     text-align: center;
+}
+
+.team-container {
+    padding: 32px 0;
 }
 
 /* main page finish*/
