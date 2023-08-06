@@ -360,7 +360,7 @@ img {
     background-color: var(--ocean);
     color: var(--white);
     cursor: pointer;
-
+    border: 1px solid transparent
 }
 
 .filter-btn {
@@ -402,8 +402,13 @@ img {
     padding: 32px 16px;
     border-top: none;
     border: 1px solid var(--cornflower);
+
 }
 
 .section-main {
     padding: 96px 0 120px 0;
+}
+
+.card-wrapper {
+    border-top: none;
 }
